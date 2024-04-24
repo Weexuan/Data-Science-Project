@@ -1,14 +1,14 @@
 # SC1015 Mini Project - Heart Disease Analysis & Prediction
 
 Heart disease is a leading cause of mortality worldwide, our group will be exploring the causes of heart disease and create predictive models to support timely interventions and reduce the associated health burden.
-
+![](https://github.com/Weexuan/Data-Science-Project/blob/main/others/Cover%20Image.png)
 ## Contribution
 
 Koh Wee Xuan - Exploratory Analysis, Convolutional Neural Network, Decision Tree
 
 Woo Weng Tai - Data Processing, Exploratory Analysis, Logistic Regression, Exploring Further Machine Learning Techniques
 
-Ryan Teo Liang Wei - Data Processing, Exploratory Analysis, Logistic Regression, Random Forest
+Teo Liang Wei, Ryan - Data Processing, Exploratory Analysis, Logistic Regression, Random Forest
 
 ## Exploratory Analysis
 
