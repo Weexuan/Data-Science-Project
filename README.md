@@ -4,7 +4,7 @@ Heart disease is a leading cause of mortality worldwide, our group will be explo
 ![](https://github.com/Weexuan/Data-Science-Project/blob/main/others/Cover%20Image.png)
 ## Contribution
 
-Koh Wee Xuan - Exploratory Analysis, Convolutional Neural Network, Decision Tree
+Koh Wee Xuan - Exploratory Analysis, Convolutional Neural Network, Decision Tree, Exploring Further Machine Learning Techniques
 
 Woo Weng Tai - Data Processing, Exploratory Analysis, Logistic Regression, Exploring Further Machine Learning Techniques
 
