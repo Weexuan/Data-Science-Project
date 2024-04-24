@@ -1,6 +1,6 @@
 # SC1015 Mini Project - Heart Disease Analysis & Prediction
 
-Heart disease is a leading cause of mortality worldwide, our group will be exploring the causes of heart disease and create predictive models to support timely interventions and reduce the associated health burden.
+Heart disease is a leading cause of mortality worldwide, our group will be exploring the predominant risk factors of heart disease and creating predictive models to support timely interventions and reduce the associated health burden.
 ![](https://github.com/Weexuan/Data-Science-Project/blob/main/others/Cover%20Image.png)
 ## Contribution
 
